@@ -9,3 +9,7 @@ X
 (src/main/java/arstring/array1change.java,c\f\cfa1921aebad6c1d6040e7cc68a7cdeaea157913
 V
 &src/main/java/arstring/array2Math.java,4\1\41638132c83f0e7d6a57627af9ef677b3997d0d1
+U
+%src/main/java/arstring/variables.java,3\c\3ce6f46ad19a7cff87e69eeb289c06f337618de1
+S
+#src/main/java/arstring/Program.java,f\1\f17c39f7b9282ac0651c312008caa26d83070298
