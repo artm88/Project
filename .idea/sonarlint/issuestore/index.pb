@@ -5,10 +5,6 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 L
 src/main/java/p/Program.java,5\9\59c786c822bb8f1c51b71ea8c144c30aefe70093
-X
-(src/main/java/arstring/array1change.java,c\f\cfa1921aebad6c1d6040e7cc68a7cdeaea157913
-V
-&src/main/java/arstring/array2Math.java,4\1\41638132c83f0e7d6a57627af9ef677b3997d0d1
 U
 %src/main/java/arstring/variables.java,3\c\3ce6f46ad19a7cff87e69eeb289c06f337618de1
 S
