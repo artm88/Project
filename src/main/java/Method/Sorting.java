@@ -4,7 +4,7 @@ import static Method.RandomArray.getRandomArray;
 import static Method.RandomArray.printOfArray;
 
 public class Sorting {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         printOfArray(sortOfArray(getRandomArray(5)));
     }
     private static int[] sortOfArray (int[] array) {
@@ -74,6 +74,6 @@ public class Sorting {
             }
         }
         return newArray;
-    }
+    }*/
 
 }

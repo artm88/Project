@@ -19,8 +19,6 @@ X
 +src/main/java/arstring/string1BeginEnd.java,1\7\17e94bfaeb165e5d0e5232cf00ae290cc7aba234
 Y
 )src/main/java/arstring/string2Middle.java,9\1\91a7eba111c1b61567c888a04f7ab27bf19b6fb4
-Y
-)src/main/java/arstring/string3Search.java,2\2\228f047b457a5d7c959dcd7e439b9cff963346a7
 R
 "src/main/java/arstring/arrays.java,c\f\cf8a7e003147a63e204bd672fd597eb6c7c6248e
 V
