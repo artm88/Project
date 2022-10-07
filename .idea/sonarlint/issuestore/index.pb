@@ -35,3 +35,9 @@ S
 #src/main/java/Method/Maxnumber.java,6\f\6f069454a584ffcec7954d6a2795e61ba6ece5bb
 L
 src/main/java/p/Program.java,5\9\59c786c822bb8f1c51b71ea8c144c30aefe70093
+P
+ src/main/java/Syntax/Syntax.java,d\6\d66343cb5f18e60f3b3c9033a18de590b767dc61
+Q
+!src/main/java/Method/Compare.java,e\9\e96b2c20694ef9cf7a8076d0675b26a7b47e52d1
+O
+src/main/java/Syntax/stars.java,6\6\66a5df4d52d8e6d1ee2f4b9c1197079ce4e54269

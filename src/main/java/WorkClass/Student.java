@@ -54,4 +54,17 @@ public class Student {
     public String getFio(){
         return fio;
     }
+    public void setAge (int age){        this.age=age;    }
+    public int getAge(){        return age;    }
+    public void setId (long id){        this.id=id;    }
+    public long getId(){        return id;    }
+    public void setKnowledgeLevel (int knowledgeLevel){        this.knowledgeLevel=knowledgeLevel;    }
+    public int getKnowledgeLevel(){        return knowledgeLevel;    }
+    public void setEnergyLevel (int energyLevel){        this.energyLevel=energyLevel;    }
+    public int getEnergyLevel(){        return energyLevel;    }
+    Student (String fio) {this.fio=fio;    }
+    Student (String fio, int age) {this.fio=fio; this.age=age;   }
+    Student (String fio, int age,long id) {this.fio=fio; this.age=age; this.id=id;  }
+    Student (String fio, int age,long id,int knowledgeLevel,int energyLevel){
+        this.fio=fio; this.age=age; this.id=id;this.knowledgeLevel=knowledgeLevel; this.energyLevel=energyLevel; }
 }
