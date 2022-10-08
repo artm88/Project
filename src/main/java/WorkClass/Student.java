@@ -1,11 +1,12 @@
 package WorkClass;
 
-public class Student {// класс для создания персональной карточки студентов для отслеживания уровней их знаний и здоровья
+public class Student implements Restable, Studyable{// класс для создания персональной карточки студентов для отслеживания уровней их знаний и здоровья
     private String fio; //ФИО
     private int age; // возраст
     private long id; // идентификатор
     private int knowledgeLevel; // уровень знания студента
     private int energyLevel; // уровень здоровья студента
+    @Override
     public void study (int hours){ // отсеживание уровней знания и здоровья при обучение студента
         if (hours>0&energyLevel>0&knowledgeLevel<10){
             if (hours<=energyLevel) {
@@ -27,6 +28,7 @@ public class Student {// класс для создания персональн
             }
         }
     }
+    @Override
     public void rest (int hours) { // отсеживание уровней знания и здоровья при отдыхе студента
         if (hours>0){
             knowledgeLevel=knowledgeLevel-hours;
