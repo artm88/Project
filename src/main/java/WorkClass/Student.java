@@ -1,12 +1,12 @@
 package WorkClass;
 
-public class Student {
-    private String fio;
-    private int age;
-    private long id;
-    private int knowledgeLevel;
-    private int energyLevel;
-    public void study (int hours){
+public class Student {// класс для создания персональной карточки студентов для отслеживания уровней их знаний и здоровья
+    private String fio; //ФИО
+    private int age; // возраст
+    private long id; // идентификатор
+    private int knowledgeLevel; // уровень знания студента
+    private int energyLevel; // уровень здоровья студента
+    public void study (int hours){ // отсеживание уровней знания и здоровья при обучение студента
         if (hours>0&energyLevel>0&knowledgeLevel<10){
             if (hours<=energyLevel) {
                 knowledgeLevel=knowledgeLevel+hours;
@@ -27,7 +27,7 @@ public class Student {
             }
         }
     }
-    public void rest (int hours) {
+    public void rest (int hours) { // отсеживание уровней знания и здоровья при отдыхе студента
         if (hours>0){
             knowledgeLevel=knowledgeLevel-hours;
             energyLevel=energyLevel+hours;
@@ -39,7 +39,7 @@ public class Student {
             }
         }
     }
-    public void showInfo(){
+    public void showInfo(){ // вывод карточки студента
         System.out.println("-------------------");
         System.out.println("ФИО "+fio);
         System.out.println("Возраст "+age);
@@ -50,7 +50,7 @@ public class Student {
     }
     public void setFio (String fio){
         this.fio=fio;
-    }
+    } // выставление и запрос полей информации о студенте
     public String getFio(){
         return fio;
     }
@@ -62,7 +62,7 @@ public class Student {
     public int getKnowledgeLevel(){        return knowledgeLevel;    }
     public void setEnergyLevel (int energyLevel){        this.energyLevel=energyLevel;    }
     public int getEnergyLevel(){        return energyLevel;    }
-    Student (String fio) {this.fio=fio;    }
+    Student (String fio) {this.fio=fio;    } // инициализация карточек студента с различными полями данных
     Student (String fio, int age) {this.fio=fio; this.age=age;   }
     Student (String fio, int age,long id) {this.fio=fio; this.age=age; this.id=id;  }
     Student (String fio, int age,long id,int knowledgeLevel,int energyLevel){

@@ -2,17 +2,17 @@ package WorkClass;
 
 public class RealStudent {
     public static void main(String[] args) {
-        Student student=new Student("Арт Ко");
-        student.showInfo();
-        student.setFio("Арт Кор");
+        Student student=new Student("Арт Ко"); // создание карточки студента Арт Ко
+        student.showInfo(); // вывод информации по карточке студента
+        student.setFio("Арт Кор"); // задание всех полей карточки студента Арт Кор
         student.setAge(18);
         student.setId(101);
         student.setEnergyLevel(5);
         student.setKnowledgeLevel(5);
         student.showInfo();
-        student.study(5);
+        student.study(5);  // обучение студента Арт Кор
         student.showInfo();
-        student.rest(5);
+        student.rest(5);// отдых студента Арт Кор
         student.showInfo();
     }
 }
