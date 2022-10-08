@@ -62,9 +62,9 @@ public class Student {// класс для создания персональн
     public int getKnowledgeLevel(){        return knowledgeLevel;    }
     public void setEnergyLevel (int energyLevel){        this.energyLevel=energyLevel;    }
     public int getEnergyLevel(){        return energyLevel;    }
-    Student (String fio) {this.fio=fio;    } // инициализация карточек студента с различными полями данных
-    Student (String fio, int age) {this.fio=fio; this.age=age;   }
-    Student (String fio, int age,long id) {this.fio=fio; this.age=age; this.id=id;  }
-    Student (String fio, int age,long id,int knowledgeLevel,int energyLevel){
+    public Student (String fio) {this.fio=fio;    } // инициализация карточек студента с различными полями данных
+    public Student (String fio, int age) {this.fio=fio; this.age=age;   }
+    public Student (String fio, int age,long id) {this.fio=fio; this.age=age; this.id=id;  }
+    public Student (String fio, int age,long id,int knowledgeLevel,int energyLevel){
         this.fio=fio; this.age=age; this.id=id;this.knowledgeLevel=knowledgeLevel; this.energyLevel=energyLevel; }
 }
