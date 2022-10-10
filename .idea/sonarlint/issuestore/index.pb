@@ -3,16 +3,12 @@
 Project.iml,1\9\197d2bfa72fa1baba6fe38b5261bc8e94e820701
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-U
-%src/main/java/arstring/variables.java,3\c\3ce6f46ad19a7cff87e69eeb289c06f337618de1
 S
 #src/main/java/arstring/Program.java,f\1\f17c39f7b9282ac0651c312008caa26d83070298
 S
 #src/main/java/Syntax/Syntaxrel.java,d\c\dc39db64fb3e79c3dc580d6e6236e6b9363a8ffe
 T
 $src/main/java/Syntax/Syntaxbool.java,c\e\ce6d0777f6992e88fecbb751c5a92fab03013a82
-X
-(src/main/java/arstring/stringUpCase.java,9\9\996fb01702c1dfa8e9945e6639afaf175e295af8
 R
 "src/main/java/arstring/arrays.java,c\f\cf8a7e003147a63e204bd672fd597eb6c7c6248e
 V
@@ -33,8 +29,6 @@ P
  src/main/java/Syntax/Syntax.java,d\6\d66343cb5f18e60f3b3c9033a18de590b767dc61
 Q
 !src/main/java/Method/Compare.java,e\9\e96b2c20694ef9cf7a8076d0675b26a7b47e52d1
-O
-src/main/java/Syntax/stars.java,6\6\66a5df4d52d8e6d1ee2f4b9c1197079ce4e54269
 X
 (src/main/java/arstring/array1change.java,c\f\cfa1921aebad6c1d6040e7cc68a7cdeaea157913
 T

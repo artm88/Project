@@ -3,7 +3,7 @@ package Method;
 import static Method.RandomArray.getRandomArray;
 import static Method.RandomArray.printOfArray;
 
-public class Sorting {
+/*public class Sorting {
     public static void main(String[] args) {
         printOfArray(sortOfArray(getRandomArray(5)));
     }
@@ -76,4 +76,4 @@ public class Sorting {
         return newArray;
     }
 
-}
+}*/
