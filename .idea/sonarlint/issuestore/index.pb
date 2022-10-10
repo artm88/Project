@@ -35,3 +35,13 @@ Q
 !src/main/java/Method/Compare.java,e\9\e96b2c20694ef9cf7a8076d0675b26a7b47e52d1
 O
 src/main/java/Syntax/stars.java,6\6\66a5df4d52d8e6d1ee2f4b9c1197079ce4e54269
+X
+(src/main/java/arstring/array1change.java,c\f\cfa1921aebad6c1d6040e7cc68a7cdeaea157913
+T
+$src/main/java/Syntax/wordlength.java,5\5\5575a3d160f35371207342e5c937efffd68646a9
+S
+#src/main/java/Method/MinNumber.java,d\e\de2b1ebd1b79f39feefe3da8c1fa0e5d0c75598b
+Y
+)src/main/java/arstring/array3Reverse.java,3\0\307716c9fb8a69856f53cc998303e2e069e439fa
+W
+'src/main/java/Method/MaxNumberFull.java,0\2\02fed17eefc27bea1914b1865502f2fea74b5e26
