@@ -1,6 +1,4 @@
 
-;
-Project.iml,1\9\197d2bfa72fa1baba6fe38b5261bc8e94e820701
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 S
@@ -39,3 +37,25 @@ Y
 )src/main/java/arstring/array3Reverse.java,3\0\307716c9fb8a69856f53cc998303e2e069e439fa
 W
 'src/main/java/Method/MaxNumberFull.java,0\2\02fed17eefc27bea1914b1865502f2fea74b5e26
+U
+%src/main/java/Method/RandomArray.java,4\b\4b14bf92984482e557a698a54bc6f44f4ed6948a
+O
+src/main/java/Syntax/stars.java,6\6\66a5df4d52d8e6d1ee2f4b9c1197079ce4e54269
+[
++src/main/java/arstring/string1BeginEnd.java,1\7\17e94bfaeb165e5d0e5232cf00ae290cc7aba234
+Y
+)src/main/java/arstring/string2Middle.java,9\1\91a7eba111c1b61567c888a04f7ab27bf19b6fb4
+Y
+)src/main/java/arstring/string3Search.java,2\2\228f047b457a5d7c959dcd7e439b9cff963346a7
+X
+(src/main/java/arstring/string4Index.java,3\b\3b23d6c0a29cd9a27b2ec533aab15f2ec71eb50b
+X
+(src/main/java/arstring/stringUpCase.java,9\9\996fb01702c1dfa8e9945e6639afaf175e295af8
+U
+%src/main/java/arstring/variables.java,3\c\3ce6f46ad19a7cff87e69eeb289c06f337618de1
+T
+$src/main/java/WorkClass/Student.java,9\4\94b4c2bee1e7f31459a8e2440da4f98d27a65880
+R
+"src/main/java/figure/Drawable.java,5\e\5e405dc56ada7b5434e7f49e1ad0e8971a238233
+Q
+!src/main/java/Method/Sorting.java,1\6\166cbac83279f4a6fb47a625baf794c089c1b56a

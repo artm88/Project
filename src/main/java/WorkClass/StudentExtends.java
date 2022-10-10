@@ -1,6 +1,6 @@
 package WorkClass;
 
-public class StudentExtends extends AbstractStudent{ // шаблон для студентов с обучением
+public class StudentExtends extends AbstractStudent{ // шаблон для студентов
     public  StudentExtends (String fio, int age,long id,int knowledgeLevel,int energyLevel){
         super(fio,age,id,knowledgeLevel, energyLevel);
     }
