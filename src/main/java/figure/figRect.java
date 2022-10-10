@@ -29,7 +29,8 @@ public class figRect extends ClassFigure implements Drawable{ // шаблон с
         System.out.println(""); // надпись
         System.out.print(color);
         defineOfFig(a,b);
-        System.out.print("с площадью ");
+        System.out.print("размером "+b+" на "+a+",");
+        System.out.print(" с площадью ");
         calcOfSquare(a,b);
         System.out.print(" и периметром ");
         calcOfPerimeter(a,b);
